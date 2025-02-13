@@ -1,0 +1,45 @@
+{
+    "pessoas": [
+      {
+        "nome": "Lucas Ferreira",
+        "idade": 29,
+        "profissao": "Engenheiro de Software"
+      },
+      {
+        "nome": "Mariana Souza",
+        "idade": 34,
+        "profissao": "Médica"
+      },
+      {
+        "nome": "Carlos Oliveira",
+        "idade": 41,
+        "profissao": "Professor"
+      },
+      {
+        "nome": "Fernanda Lima",
+        "idade": 27,
+        "profissao": "Arquiteta"
+      },
+      {
+        "nome": "Rafael Santos",
+        "idade": 31,
+        "profissao": "Advogado"
+      },
+      {
+        "nome": null,
+        "idade": null,
+        "profissao": null
+      },
+      {
+        "nome": "Ana Pereira",
+        "idade": null,
+        "profissao": "Designer"
+      },
+      {
+        "nome": "Bruno Costa",
+        "idade": 45,
+        "profissao": null
+      }
+    ]
+  }
+  
